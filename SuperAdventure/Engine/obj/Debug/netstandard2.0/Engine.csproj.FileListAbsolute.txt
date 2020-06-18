@@ -1,0 +1,9 @@
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.dll
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.pdb
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csprojAssemblyReference.cache
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.dll
+D:\A_Code\B_Workspace\C_VS 2019WSP\VSworkspace\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.pdb
