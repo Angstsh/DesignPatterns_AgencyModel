@@ -1,0 +1,13 @@
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.exe
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.deps.json
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.runtimeconfig.json
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.runtimeconfig.dev.json
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.dll
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\bin\Debug\netcoreapp3.1\AgencyModel.pdb
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.csprojAssemblyReference.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.csproj.CoreCompileInputs.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.AssemblyInfoInputs.cache
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.AssemblyInfo.cs
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.dll
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.pdb
+D:\A_Code\B_Git\GIT\DesignPatterns\AgencyModel\AgencyModel\obj\Debug\netcoreapp3.1\AgencyModel.genruntimeconfig.cache
