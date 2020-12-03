@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\AgencyModel\\AgencyModel\\AgencyModel.csproj": {}
+    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\agencymodel\\AgencyModel\\AgencyModel.csproj": {}
   },
   "projects": {
-    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\AgencyModel\\AgencyModel\\AgencyModel.csproj": {
+    "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\agencymodel\\AgencyModel\\AgencyModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\AgencyModel\\AgencyModel\\AgencyModel.csproj",
+        "projectUniqueName": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\agencymodel\\AgencyModel\\AgencyModel.csproj",
         "projectName": "AgencyModel",
-        "projectPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\AgencyModel\\AgencyModel\\AgencyModel.csproj",
+        "projectPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\agencymodel\\AgencyModel\\AgencyModel.csproj",
         "packagesPath": "C:\\Users\\SHENGHUI\\.nuget\\packages\\",
-        "outputPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\AgencyModel\\AgencyModel\\obj\\",
+        "outputPath": "D:\\A_Code\\B_Git\\GIT\\DesignPatterns\\agencymodel\\AgencyModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

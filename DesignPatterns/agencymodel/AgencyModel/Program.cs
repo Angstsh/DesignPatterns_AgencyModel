@@ -9,11 +9,11 @@ namespace AgencyModel
             SchoolGirl jiaojiao = new SchoolGirl();
             jiaojiao.Name = "李娇娇";
 
-            Pursuit zhuojiayi = new Pursuit(jiaojiao);
+            Proxy daili = new Proxy(jiaojiao);
 
-            zhuojiayi.GiveDolls();
-            zhuojiayi.GiveFlowers();
-            zhuojiayi.GiveChocolate();
+           daili.GiveDolls();
+            daili.GiveFlowers();
+            daili.GiveChocolate();
 
             Console.Read();
         }
